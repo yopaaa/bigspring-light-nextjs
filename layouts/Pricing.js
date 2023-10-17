@@ -2,6 +2,7 @@ import Link from "next/link";
 import Cta from "./components/Cta";
 
 function Pricing({ data }) {
+  // console.log(data);
   const {
     frontmatter: { title, plans, call_to_action },
   } = data;

@@ -78,7 +78,7 @@ services:
 workflow: 
   title: "Experience the best workflow with us"
   image: "/images/banner.svg"
-  description: ""
+  description: "Lorem ipsum dolor sit amet."
 
 # call_to_action
 call_to_action:
